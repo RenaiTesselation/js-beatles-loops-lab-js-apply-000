@@ -32,7 +32,7 @@ function iLoveTheBeatles(num)
   do
   {
     output[i] = "I love the Beatles!";
-    number++
+    num++
   }
   while(num < 15);
   
