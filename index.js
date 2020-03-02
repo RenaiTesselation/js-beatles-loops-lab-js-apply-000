@@ -29,12 +29,14 @@ function johnLennonFacts(facts)
 function iLoveTheBeatles(Number)
 {
   var output = [];
+  var input = Number;
   var i = 0;
   do
   {
-    
+    if()
     i++
   }
+  
   
   
 }
