@@ -23,4 +23,5 @@ function johnLennonFacts(facts)
     
     i++
   }
+  return output;
 }
