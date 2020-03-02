@@ -26,7 +26,7 @@ function johnLennonFacts(facts)
   return output;
 }
 
-function iLoveTheBeatles(number)
+function iLoveTheBeatles(num)
 {
   var output = [];
   do
@@ -34,7 +34,7 @@ function iLoveTheBeatles(number)
     output[i] = "I love the Beatles!";
     number++
   }
-  while(num < 15);
+  while(number < 15);
   
   
   
