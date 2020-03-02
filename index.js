@@ -33,7 +33,7 @@ function iLoveTheBeatles(number)
   var i = 0;
   do
   {
-    if()
+    output[i] = "I love the Beatles!"
     i++
   }
   
