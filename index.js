@@ -33,9 +33,10 @@ function iLoveTheBeatles(number)
   var i = 0;
   do
   {
-    output[i] = "I love the Beatles!"
+    output[i] = "I love the Beatles!";
     i++
   }
+  while(i < number);
   
   
   
