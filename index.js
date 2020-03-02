@@ -34,7 +34,7 @@ function iLoveTheBeatles(num)
     output[i] = "I love the Beatles!";
     number++
   }
-  while(number < 15);
+  while(num < 15);
   
   return love;
   
