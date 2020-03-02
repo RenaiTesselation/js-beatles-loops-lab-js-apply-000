@@ -26,10 +26,10 @@ function johnLennonFacts(facts)
   return output;
 }
 
-function iLoveTheBeatles(Number)
+function iLoveTheBeatles(number)
 {
   var output = [];
-  var input = Number;
+  var input = number;
   var i = 0;
   do
   {
